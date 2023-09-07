@@ -207,7 +207,7 @@
                         android:textColor="@color/app_color_light"
                         android:textSize="18sp" />
                     <View
-                        android:id="@+id/cNewBonus"
+                        android:id="@+id/vNewBonus"
                         android:layout_width="match_parent"
                         android:layout_height="8dp"
                         android:background="@color/contrast_data"
@@ -307,16 +307,16 @@
                             android:layout_height="43dp"
                             android:background="@color/white_cell"
                             />
+
                         <ImageView
                             android:id="@+id/c57"
-                            android:tag="c57"
-                            android:layout_column="5"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_column="5"
                             android:layout_weight="1"
-                            android:layout_height="43dp"
                             android:background="@color/black_cell"
-                            />
+                            android:onClick="checkChellClicked"
+                            android:tag="c57" />
                         <ImageView
                             android:id="@+id/c67"
                             android:tag="c67"
@@ -755,16 +755,16 @@
 
                     </TableRow>
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c01"
-                            android:tag="c01"
+                            android:layout_width="45dp"
+                            android:layout_height="match_parent"
                             android:layout_column="0"
-                            android:onClick="checkChellClicked"
-                            android:layout_width="0dp"
                             android:layout_weight="1"
-                            android:layout_height="43dp"
                             android:background="@color/white_cell"
-                            />
+                            android:onClick="checkChellClicked"
+                            android:tag="c01" />
                         <ImageView
                             android:id="@+id/c11"
                             android:tag="c11"
@@ -775,16 +775,16 @@
                             android:layout_height="43dp"
                             android:background="@color/black_cell"
                             />
+
                         <ImageView
                             android:id="@+id/c21"
-                            android:tag="c21"
+                            android:layout_width="48dp"
+                            android:layout_height="match_parent"
                             android:layout_column="2"
-                            android:onClick="checkChellClicked"
-                            android:layout_width="0dp"
                             android:layout_weight="1"
-                            android:layout_height="43dp"
                             android:background="@color/white_cell"
-                            />
+                            android:onClick="checkChellClicked"
+                            android:tag="c21" />
                         <ImageView
                             android:id="@+id/c31"
                             android:tag="c31"
@@ -936,7 +936,7 @@
             android:visibility="visible">
 
             <TextView
-                android:id="@+id/tvIntroLevel"
+                android:id="@+id/tvTitleMessage"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -947,7 +947,7 @@
                 android:textColor="@color/app_color_dark"
                 android:textSize="70sp" />
             <TextView
-                android:id="@+id/tvIntroLives"
+                android:id="@+id/tvScoreMessage"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -968,24 +968,22 @@
                 android:layout_marginRight="24dp"
                 android:background="@drawable/bg_title_top"
                 android:fontFamily="@font/amaranth_regular"
-                android:onClick="launchAction"
                 android:paddingTop="10dp"
                 android:shadowRadius="8"
                 android:text="Next Level"
                 android:textAlignment="center"
                 android:textColor="@color/app_color_light"
                 android:textSize="24dp" />
-            <ImageButton
-                android:id="@+id/ibShare"
+            <Button
+                android:id="@+id/compartir"
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginBottom="40dp"
                 android:background="@drawable/bg_title_bottom"
-                android:onClick="launchAction"
-                android:drawableStart="@drawable/ic_share"
-                android:visibility="visible"/>
+                android:onClick="compartir"
+                />
 
         </LinearLayout>
 
