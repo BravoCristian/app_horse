@@ -266,9 +266,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"
-                            android:src="@drawable/horse"
-                            />
+                            android:background="@color/white_cell" />
                         <ImageView
                             android:id="@+id/c17"
                             android:tag="c17"
@@ -277,7 +275,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c27"
@@ -297,7 +295,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c47"
@@ -317,7 +315,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c67"
@@ -337,7 +335,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
 
                     </TableRow>
@@ -350,7 +348,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c16"
@@ -370,7 +368,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c36"
@@ -390,7 +388,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c56"
@@ -410,7 +408,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c76"
@@ -443,7 +441,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c25"
@@ -463,7 +461,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c45"
@@ -483,7 +481,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c65"
@@ -503,7 +501,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
 
                     </TableRow>
@@ -516,7 +514,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c14"
@@ -536,7 +534,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c34"
@@ -556,7 +554,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c54"
@@ -576,7 +574,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c74"
@@ -609,7 +607,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c23"
@@ -629,7 +627,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c43"
@@ -649,7 +647,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c63"
@@ -669,7 +667,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
 
                     </TableRow>
@@ -682,7 +680,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c12"
@@ -702,7 +700,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c32"
@@ -722,7 +720,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c52"
@@ -742,7 +740,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c72"
@@ -775,7 +773,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c21"
@@ -795,7 +793,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c41"
@@ -815,7 +813,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c61"
@@ -835,7 +833,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
 
                     </TableRow>
@@ -848,7 +846,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c10"
@@ -868,7 +866,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c30"
@@ -888,7 +886,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c50"
@@ -908,7 +906,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="43dp"
-                            android:background="@color/blck_cell"
+                            android:background="@color/black_cell"
                             />
                         <ImageView
                             android:id="@+id/c70"
@@ -937,7 +935,59 @@
             android:orientation="vertical"
             android:visibility="visible">
 
-                </LinearLayout>
+            <TextView
+                android:id="@+id/tvIntroLevel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/amaranth_regular"
+                android:shadowColor="@color/white"
+                android:text="Level: 1"
+                android:textColor="@color/app_color_dark"
+                android:textSize="70sp" />
+            <TextView
+                android:id="@+id/tvIntroLives"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:fontFamily="@font/amaranth_regular"
+                android:shadowColor="@color/white"
+                android:shadowRadius="8"
+                android:text="Lives: 1"
+                android:textAlignment="center"
+                android:textColor="@color/app_color_dark"
+                android:textSize="45sp" />
+            <TextView
+                android:id="@+id/tvAction"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="24dp"
+                android:background="@drawable/bg_title_top"
+                android:fontFamily="@font/amaranth_regular"
+                android:onClick="launchAction"
+                android:paddingTop="10dp"
+                android:shadowRadius="8"
+                android:text="Next Level"
+                android:textAlignment="center"
+                android:textColor="@color/app_color_light"
+                android:textSize="24dp" />
+            <ImageButton
+                android:id="@+id/ibShare"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/bg_title_bottom"
+                android:onClick="launchAction"
+                android:drawableStart="@drawable/ic_share"
+                android:visibility="visible"/>
+
+        </LinearLayout>
 
             </RelativeLayout>
             <TextView

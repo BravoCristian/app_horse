@@ -7,18 +7,20 @@
     <color name="app_color_regular">#776e65</color>
     <color name="app_color_light">#Faf8eF</color>
 
-    <color name="blck_cell">#423327</color>
+    <color name="black_cell">#423327</color>
     <color name="white_cell">#efcf9b</color>
 
     <color name="contrast_data">#a40d0d</color>
-    <color name="selected_cell">#780533</color>
-    <color name="previus_cell">#FFa500</color>
+    <color name="contrast_data_premium">#17711b</color>
+
+
+    <color name="selected_cell">#639DE4</color>
+    <color name="previus_cell">#F8E540</color>
     <color name="enabled_cell">#1775a4</color>
 
     <color name="messege_bg">#cddad8eF</color>
 
     <color name="white_cell_premiom">#ead7e0</color>
     <color name="black_cell_premuim">#185303</color>
-    <color name="contrast_data_premium">#17711b</color>
 
 </resources>
